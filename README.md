@@ -11,8 +11,8 @@ El sistema modela clientes individuales y empresas, y distintas cuentas como caj
 ## ⚙️ Funcionalidades principales
 
 ### 👤 Gestión de clientes
-- Cliente individual (nombre, apellido, DNI)
-- Cliente empresa (nombreFantasia, CUIT)
+- Cliente Individual(nombre, apellido, DNI)
+- Cliente Empresa (nombreFantasia, CUIT)
 
 ### 💳 Tipos de cuentas
 - Caja de ahorro
