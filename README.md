@@ -12,12 +12,12 @@ El sistema modela clientes individuales y empresas, y distintas cuentas como caj
 
 ### 👤 Gestión de clientes
 - Cliente individual (nombre, apellido, DNI)
-- Cliente empresa (razón social, CUIT)
+- Cliente empresa (nombreFantasia, CUIT)
 
 ### 💳 Tipos de cuentas
 - Caja de ahorro
-- Cuenta corriente con giro en descubierto
-- Cuenta con convertibilidad a dólares
+- Cuenta corriente
+- Cuenta  convertibilidad 
 
 ### 💰 Operaciones bancarias
 - Depósitos en pesos
